@@ -14,6 +14,7 @@
 </p>
 
 ---
+#### Tech I'm currently using:
 
 ##### Front End
 <p align="left"> 
@@ -57,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
       alt="nodejs" width="40" height="40" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="background-color:grey;">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
       alt="expressjs" width="40" height="40" />
   </a>  
