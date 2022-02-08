@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Ben Pintel 👋</h2>
 <h4>Lets build something together!</h4>
 
-###### 📫 How to reach me: 
+##### 📫 How to reach me: 
 <p align="left"> 
   <a href="mailto:bpintel@gmail.com" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-###### Front End
+##### Front End
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -49,7 +49,7 @@
   </a>
 </p>
   
-###### Back End
+##### Back End
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
@@ -81,7 +81,7 @@
   </a>  
 </p>
 
-###### Dev Tools
+##### Dev Tools
 
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -102,7 +102,7 @@
   </a>
 </p>
 
-###### More to come!
+##### More to come!
 
 [![bpintelss GitHub stats](https://github-readme-stats.vercel.app/api?username=bpintel&show_icons=true&theme=dark)](https://github.com/bpintel/github-readme-stats)
 
