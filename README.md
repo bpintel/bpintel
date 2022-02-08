@@ -1,5 +1,5 @@
 <h2>Hi there, I'm Ben Pintel 👋</h2>
-<h4>Lets build something together!</h4>
+<h3>Lets build something together!</h3>
 
 ##### 📫 How to reach me: 
 <p align="left"> 
