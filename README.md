@@ -107,7 +107,7 @@
 
 ##### More to come!
 
-[![bpintelss GitHub stats](https://github-readme-stats.vercel.app/api?username=bpintel&show_icons=true&theme=dark)](https://github.com/bpintel/github-readme-stats)
+<!-- [![bpintelss GitHub stats](https://github-readme-stats.vercel.app/api?username=bpintel&show_icons=true&theme=dark)](https://github.com/bpintel/github-readme-stats) -->
 
 <!-- 
 next on my list:
