@@ -12,7 +12,7 @@
         alt="linkedin" width="40" height="40" />
   </a>
 </p>
-
+<!-- 
 ---
 #### Tech I'm currently using:
 
